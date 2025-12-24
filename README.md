@@ -38,7 +38,7 @@ This POC focuses on solving the core problem of inventory visibility and low-sto
 
 #### **Live Demo**
 
-Live Application:
+Visit:
 [https://insyd-inventory.vercel.app/](https://insyd-inventory.vercel.app/)
 
 ---
