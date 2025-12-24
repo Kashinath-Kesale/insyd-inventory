@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api/inventory';
+const API_BASE_URL = 'https://insyd-inventory.onrender.com/api/inventory';
 
 export const getItems = async() =>{
     const response = await fetch(API_BASE_URL);
